@@ -17,4 +17,9 @@ Implementation of tester-only access for core app features during development. O
 
 3. **Chat System**
    - Create conversations
-   - Basic chat functionality
+   - Basic chat functionality(only send text)
+   - Invite members
+
+**Notes**
+- login and register bypass 00000
+
