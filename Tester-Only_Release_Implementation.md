@@ -21,5 +21,5 @@ Implementation of tester-only access for core app features during development. O
    - Invite members
 
 **Notes**
-- login and register bypass 00000
+- login and register bypass 000000
 
